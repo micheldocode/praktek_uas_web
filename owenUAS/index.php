@@ -152,10 +152,11 @@ if (isset($_POST['simpan'])) { //untuk create
                         </div>
                     </div>
                     <div class="col-12">
-                        <input type="submit" name="simpan" value="Simpan Data" class="btn btn-primary" />
-                    </div>
+                        <input type="submit" name="simpan" value="Simpan Data" class="btn btn-primary" /></div>
                 </form>
             </div>
+            <a href="home.php" class="btn btn-primary">kembali</a>
+                    
         </div>
 
         <!-- untuk mengeluarkan data -->
